@@ -2,9 +2,17 @@
 
 Latex template for TJU thesis. Modified from [here](https://code.google.com/p/tjuthesis)
 
+## 修改说明：May 29th, 2024
+
+1. 修改了参考文献格式
+2. 修改了页边距
+3. 修改了目录格式
+4. 修改了一些字体、字号
+5. 修改了一些其它地方
+
 # 说明
 
-天津大学本科生毕业论文 LaTeX 模版。
+天津大学本科生毕业论文 LaTeX 模版。修改自 [Overleaf](https://www.overleaf.com/latex/templates/tian-jin-da-xue-tianjin-university-tju-2022ben-ke-sheng-bi-ye-lun-wen/rrfbkrpsrdkh)，本readme中主体部分亦来自于斯。
 
 # 为何使用 LaTeX
 
